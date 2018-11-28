@@ -90,7 +90,7 @@ def draw(color,thick):
     window.close_on_mouse_click()
 
 ###############################################################################
-# TODO: 5.
+# DONE: 5.
 #   COMMIT-and-PUSH your work (after changing this TO-DO to DONE).
 #
 #   As a reminder, here is how you should do so:
